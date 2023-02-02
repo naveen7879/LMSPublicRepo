@@ -1,0 +1,11 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" id="gvdetails" style="width:100%;border-collapse:collapse;">
+		<tr style="color:White;background-color:#507CD1;font-size:10pt;font-weight:bold;">
+			<th scope="col">PartyCode</th><th scope="col">Name</th><th scope="col">Sector</th><th scope="col">Scheme Number</th><th scope="col">Scheme Name</th><th scope="col">Earned Date on</th><th scope="col">Earned Value</th>
+		</tr><tr style="font-size:10pt;">
+			<td>SBDA0030969</td><td>NEW MANIKANTA ENG.,&amp;ELE,THORRUR</td><td>SPARES</td><td>9430</td><td>9430-MVBD-A&amp;R SPARES</td><td>31-AUG-2018</td><td>1200.00</td>
+		</tr><tr style="font-size:10pt;">
+			<td>SBDA0030969</td><td>NEW MANIKANTA ENG.,&amp;ELE,THORRUR</td><td>SPARES</td><td>9427</td><td>9427-MVBD-A&amp;R SPARES</td><td>31-JUL-2018</td><td>354.00</td>
+		</tr>
+	</table>
+</div>
